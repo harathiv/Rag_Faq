@@ -1,0 +1,5 @@
+
+requests
+minsearch
+ollama
+python-dotenv
